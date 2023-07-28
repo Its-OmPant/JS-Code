@@ -1,0 +1,1 @@
+# Chapter 2:  Basics of javascript [Part 02]
